@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CeloHelp/CeloHelp/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
