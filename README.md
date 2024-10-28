@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi!<br>- Begginer Java Developer seeking to expand my knowledge and skills<br>- Always looking for new challenges and opportunities to grow as a developer.</p>
+<p align="left">👋 Hi there! <br>- Begginer Java Developer seeking to expand my knowledge and skills<br>- Always looking for new challenges and opportunities to grow as a developer.</p>
 
 ###
 
@@ -27,14 +27,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CeloHelp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CeloHelp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CeloHelp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CeloHelp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CeloHelp&radius=16&theme=synthwave-84&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/CeloHelp/CeloHelp/output/snake.svg" alt="Snake animation" />
 
 ###
 
